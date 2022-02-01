@@ -28,7 +28,7 @@ h1 {
 /* ===== ヘッダーのスタイル ===== */
 /* ヘッダーの箱 */
 header {
-  background-image: url(img/maxresdefault.jpg);/* 背景画像 */
+  background-image: url(https://github.com/kuraneko1/kuraneko2.github.io/blob/main/maxresdefault.jpg?raw=true);/* 背景画像 */
   height: 650px;/* 高さ */
   padding-top: 20px;/* 上がわの余白 */
   background-size: cover;
@@ -74,7 +74,7 @@ header {
 /* セクション */
 .photo {
   padding: 30px;
-  /*background-image: url(img/wood.jpg);*/
+  /*background-image: url(https://github.com/kuraneko1/kuraneko2.github.io/blob/main/mc.jpg?raw=true);*/
   background-color:#e7e7eb;
 }
 
@@ -119,3 +119,4 @@ header {
   margin-bottom: 50px;
   
 }
+
